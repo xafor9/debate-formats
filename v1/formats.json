@@ -7,10 +7,10 @@
       "version": 1,
       "info": {
         "en": {
-          "name": "Bangladesh 3v3 (5 min speeches, 3 min replies, 1 min LO time)",
-          "description": "Three vs Three debate format popular in Bangladesh. Constructives 5 min, replies 3 min, LO has 1 min strategic time. POIs after 15s, end 15s before finish."
+          "name": "Bangladesh 3v3",
+          "description": "Three vs Three debate format popular in Bangladesh. Constructives 5 min, replies 3 min, LO has 1 min strategic time."
         }
       }
     }
   ]
-} 
+}
